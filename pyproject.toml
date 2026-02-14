@@ -1,0 +1,9 @@
+[project]
+name = "ai-under-the-hood"
+version = "0.1.0"
+description = "Basic AI/NLP models from scratch, trained on The War of the Worlds"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "torch",
+]
